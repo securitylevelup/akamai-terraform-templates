@@ -11,6 +11,7 @@ provider "akamai" {
   edgerc = "~/.edgerc"
   config_section = "default"
 }
+
 variable "contract_id" { }
 variable "group_name" { }
 variable "product_id" { }
