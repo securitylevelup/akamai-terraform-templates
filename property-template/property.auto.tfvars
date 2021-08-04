@@ -1,5 +1,5 @@
-group_name = "" //your Akamai Group Name
 contract_id = "" //your Akamai Contract ID
+group_name = "" //your Akamai Group Name
 product_id = "prd_Fresca" //Akamai Product ID, Akamai Ion = prd_Fresca
 hostname = "" //your hostname you want to Akamaize
 cpcode_name = "" //your CP Code name, best practice is to make it similar to your hostname
