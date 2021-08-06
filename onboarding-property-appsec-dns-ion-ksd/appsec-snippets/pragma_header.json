@@ -1,0 +1,18 @@
+{
+  "action": "REMOVE",
+  "conditionOperator": "AND",
+  "excludeCondition": [
+      {
+          "name": "ENABLEDEBUG",
+          "positiveMatch": true,
+          "type": "queryParamNameValueMatch",
+          "useHeaders": false,
+          "value": [
+              "true"
+          ],
+          "valueCase": false,
+          "valueWildcard": false
+      }
+  ],
+  "override": true
+}
