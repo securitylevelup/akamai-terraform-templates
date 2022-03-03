@@ -1,6 +1,13 @@
 # akamai-terraform-templates
 Repository that contains Akamai Terraform Provider templates. 
 
+NOTE MARCH 03, 2022:
+My Akamai Terraform Provider templates are migrated and updated in the official Akamai GitHub. You can find the repo here: https://github.com/akamai/examples-terraform
+
+
+
+
+
 NOTES AUGUST 6 2021: This is the first iteration of these templates and are still being tested by the Akamai Terraform Champions to ensure they work for certain corner cases as well. Please verify your Akamai product in the notes below. 
 
 **property-template**
